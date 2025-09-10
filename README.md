@@ -41,13 +41,6 @@ Tech Stack
 	•	Visualization: Matplotlib, Seaborn
 	•	Environment: Google Colab / Jupyter Notebook
 
-Project Structure
-data/                  # Waze dataset (not included here)
-notebooks/             # Jupyter/Colab notebooks
-src/                   # Source code for preprocessing, modeling, evaluation
-results/               # Figures, evaluation metrics, and reports
-README.md              # Project documentation
-
 How to Run
 	1.	Clone the repository:
 git clone https://github.com/VaanathyKajatheepan/waze-churn-prediction.git
@@ -55,8 +48,3 @@ cd waze-churn-prediction
 	2.	Install dependencies:
 pip install -r requirements.txt
 	3.	Run Jupyter Notebook / Colab to explore the analysis and models.
-
-References
-	•	Burez, J., & Van den Poel, D. (2009). Handling class imbalance in customer churn prediction. Expert Systems with Applications, 36(3), 4626–4636.
-	•	Hosmer, D. W., Lemeshow, S., & Sturdivant, R. X. (2013). Applied logistic regression (3rd ed.). Wiley.
-	•	Verbeke, W., Martens, D., & Baesens, B. (2014). Social network analysis for customer churn prediction. Applied Soft Computing, 14, 431–446.
