@@ -61,7 +61,7 @@ This project investigates user churn prediction in Waze. High churn, caused by d
 
 🚀 How to Run
 	1.	Clone the repository
- git clone https://github.com/VaanathyKajatheepan/waze-churn-prediction.git
+ git clone https://github.com/VaanathyKajatheepan/waze-customer-churn-project
 cd waze-churn-prediction
 
 	2. Install dependencies
