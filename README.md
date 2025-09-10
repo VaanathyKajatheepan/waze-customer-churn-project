@@ -71,3 +71,8 @@ cd waze-churn-prediction
   Open the Jupyter Notebook or Google Colab file.
   Open the pbix file in Power BI
   Explore the analysis, visualizations, and churn prediction models.
+
+	4. Access Agile Scrum Framework from Tiaga for the waze project
+ https://tree.taiga.io/project/vaanathykajatheepan-waze-customer-churn/backlog
+ 
+
